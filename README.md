@@ -3,37 +3,37 @@
 ![alt text](Pic/1.PNG)
 
 ## 2. Создание репозитория локально с помощью Git:
-![alt text](Pic/2.png)
+![alt text](Pic/2.PNG)
 
 ## 3. Переход в созданный локальный репозиторий:
-![alt text](Pic/3.png)
+![alt text](Pic/3.PNG)
 
 ## 4. Создание в репозитории файлов DOC.md, README.md, Lab1-Pr1.py и Lab1-Pr2.py:
-![alt text](Pic/4.png)
+![alt text](Pic/4.PNG)
 
 ## 5. Заполнение файла DOC.md с помощбю VS CODE в разметке markdown:
-![alt text](Pic/5.png)
+![alt text](Pic/5.PNG)
 
 ## 6. Создание программы для первой части задания и сохранение в файл Lab1-Pr1.py:
-![alt text](Pic/6.png)
+![alt text](Pic/6.PNG)
 
 ## 7. Создание программы для второй части задания и сохранение в файл Lab1-Pr2.py:
-![alt text](Pic/7.png)
+![alt text](Pic/7.PNG)
 
 ## 8. Заполнение файла README.md с помощбю VS CODE в разметке markdown:
-![alt text](Pic/8.png)
+![alt text](Pic/8.PNG)
 
 ## 9. Добавление всех файлов в текущей папке в индекс Git:
-![alt text](Pic/9.png)
+![alt text](Pic/9.PNG)
 
 ## 10. Создание первоначальной фиксации пустого проекта в Git Bush:
-![alt text](Pic/10.png)
+![alt text](Pic/10.PNG)
 
 ## 11. Создане ветки dev и переход в неё:
-![alt text](Pic/11.png)
+![alt text](Pic/11.PNG)
 
 ## 12. Объединение двух ветоки (master и dev) и назначение версии:
-![alt text](Pic/12.png)
+![alt text](Pic/12.PNG)
 
 ## 13. Пушинг проекта на GitHub с локального Git:
-![alt text](Pic/13.png)
+![alt text](Pic/13.PNG)
